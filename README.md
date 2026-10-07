@@ -1,4 +1,4 @@
-# 🛠️ iClassic IT - Backend API & Socket Server (ERP)
+# 🛠️ Mini POS System - Backend API & Socket Server
 
 This repository contains the backend server for the **iClassic IT ERP System**, powered by **Node.js**, **Express**, **TypeScript**, and **Bun**. It manages database models via MongoDB, handles sessions using dual JWT cookies, and broadcasts real-time chat messages via Socket.io.
 
